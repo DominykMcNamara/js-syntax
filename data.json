@@ -1,402 +1,502 @@
 [
 	{
-		"text": "scelerisque neque. Nullam nisl. Maecenas malesuada fringilla est. Mauris eu",
-		"id": 1
+		"sentence1": "metus. In lorem. Donec elementum, lorem ut aliquam iaculis, lacus",
+		"sentence2": "egestas a, dui. Cras pellentesque. Sed dictum. Proin eget odio.",
+		"sentence3": "ut nisi a odio semper cursus. Integer mollis. Integer tincidunt"
 	},
 	{
-		"text": "Pellentesque ultricies dignissim lacus. Aliquam rutrum lorem ac risus. Morbi",
-		"id": 2
+		"sentence1": "fermentum vel, mauris. Integer sem elit, pharetra ut, pharetra sed,",
+		"sentence2": "eu dui. Cum sociis natoque penatibus et magnis dis parturient",
+		"sentence3": "adipiscing ligula. Aenean gravida nunc sed pede. Cum sociis natoque"
 	},
 	{
-		"text": "blandit congue. In scelerisque scelerisque dui. Suspendisse ac metus vitae",
-		"id": 3
+		"sentence1": "Duis volutpat nunc sit amet metus. Aliquam erat volutpat. Nulla",
+		"sentence2": "Donec vitae erat vel pede blandit congue. In scelerisque scelerisque",
+		"sentence3": "magnis dis parturient montes, nascetur ridiculus mus. Aenean eget magna."
 	},
 	{
-		"text": "quis, pede. Suspendisse dui. Fusce diam nunc, ullamcorper eu, euismod",
-		"id": 4
+		"sentence1": "non, vestibulum nec, euismod in, dolor. Fusce feugiat. Lorem ipsum",
+		"sentence2": "ultrices sit amet, risus. Donec nibh enim, gravida sit amet,",
+		"sentence3": "eget nisi dictum augue malesuada malesuada. Integer id magna et"
 	},
 	{
-		"text": "fames ac turpis egestas. Aliquam fringilla cursus purus. Nullam scelerisque",
-		"id": 5
+		"sentence1": "convallis erat, eget tincidunt dui augue eu tellus. Phasellus elit",
+		"sentence2": "non leo. Vivamus nibh dolor, nonummy ac, feugiat non, lobortis",
+		"sentence3": "Donec non justo. Proin non massa non ante bibendum ullamcorper."
 	},
 	{
-		"text": "Integer vitae nibh. Donec est mauris, rhoncus id, mollis nec,",
-		"id": 6
+		"sentence1": "augue ac ipsum. Phasellus vitae mauris sit amet lorem semper",
+		"sentence2": "dolor sit amet, consectetuer adipiscing elit. Curabitur sed tortor. Integer",
+		"sentence3": "libero. Morbi accumsan laoreet ipsum. Curabitur consequat, lectus sit amet"
 	},
 	{
-		"text": "sit amet, faucibus ut, nulla. Cras eu tellus eu augue",
-		"id": 7
+		"sentence1": "natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+		"sentence2": "convallis dolor. Quisque tincidunt pede ac urna. Ut tincidunt vehicula",
+		"sentence3": "scelerisque neque. Nullam nisl. Maecenas malesuada fringilla est. Mauris eu"
 	},
 	{
-		"text": "vehicula et, rutrum eu, ultrices sit amet, risus. Donec nibh",
-		"id": 8
+		"sentence1": "nisl. Nulla eu neque pellentesque massa lobortis ultrices. Vivamus rhoncus.",
+		"sentence2": "Maecenas libero est, congue a, aliquet vel, vulputate eu, odio.",
+		"sentence3": "id enim. Curabitur massa. Vestibulum accumsan neque et nunc. Quisque"
 	},
 	{
-		"text": "cursus in, hendrerit consectetuer, cursus et, magna. Praesent interdum ligula",
-		"id": 9
+		"sentence1": "cursus non, egestas a, dui. Cras pellentesque. Sed dictum. Proin",
+		"sentence2": "diam lorem, auctor quis, tristique ac, eleifend vitae, erat. Vivamus",
+		"sentence3": "Cras vulputate velit eu sem. Pellentesque ut ipsum ac mi"
 	},
 	{
-		"text": "et, magna. Praesent interdum ligula eu enim. Etiam imperdiet dictum",
-		"id": 10
+		"sentence1": "tristique ac, eleifend vitae, erat. Vivamus nisi. Mauris nulla. Integer",
+		"sentence2": "fringilla cursus purus. Nullam scelerisque neque sed sem egestas blandit.",
+		"sentence3": "orci quis lectus. Nullam suscipit, est ac facilisis facilisis, magna"
 	},
 	{
-		"text": "lorem ipsum sodales purus, in molestie tortor nibh sit amet",
-		"id": 11
+		"sentence1": "Proin vel nisl. Quisque fringilla euismod enim. Etiam gravida molestie",
+		"sentence2": "Nam tempor diam dictum sapien. Aenean massa. Integer vitae nibh.",
+		"sentence3": "a, auctor non, feugiat nec, diam. Duis mi enim, condimentum"
 	},
 	{
-		"text": "pretium neque. Morbi quis urna. Nunc quis arcu vel quam",
-		"id": 12
+		"sentence1": "Donec non justo. Proin non massa non ante bibendum ullamcorper.",
+		"sentence2": "Proin velit. Sed malesuada augue ut lacus. Nulla tincidunt, neque",
+		"sentence3": "egestas a, dui. Cras pellentesque. Sed dictum. Proin eget odio."
 	},
 	{
-		"text": "rutrum urna, nec luctus felis purus ac tellus. Suspendisse sed",
-		"id": 13
+		"sentence1": "sagittis. Duis gravida. Praesent eu nulla at sem molestie sodales.",
+		"sentence2": "malesuada augue ut lacus. Nulla tincidunt, neque vitae semper egestas,",
+		"sentence3": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur"
 	},
 	{
-		"text": "eu, ultrices sit amet, risus. Donec nibh enim, gravida sit",
-		"id": 14
+		"sentence1": "gravida nunc sed pede. Cum sociis natoque penatibus et magnis",
+		"sentence2": "montes, nascetur ridiculus mus. Proin vel arcu eu odio tristique",
+		"sentence3": "luctus vulputate, nisi sem semper erat, in consectetuer ipsum nunc"
 	},
 	{
-		"text": "pede et risus. Quisque libero lacus, varius et, euismod et,",
-		"id": 15
+		"sentence1": "Sed eu nibh vulputate mauris sagittis placerat. Cras dictum ultricies",
+		"sentence2": "luctus. Curabitur egestas nunc sed libero. Proin sed turpis nec",
+		"sentence3": "tincidunt pede ac urna. Ut tincidunt vehicula risus. Nulla eget"
 	},
 	{
-		"text": "ornare lectus justo eu arcu. Morbi sit amet massa. Quisque",
-		"id": 16
+		"sentence1": "ridiculus mus. Donec dignissim magna a tortor. Nunc commodo auctor",
+		"sentence2": "pede nec ante blandit viverra. Donec tempus, lorem fringilla ornare",
+		"sentence3": "elit fermentum risus, at fringilla purus mauris a nunc. In"
 	},
 	{
-		"text": "massa. Integer vitae nibh. Donec est mauris, rhoncus id, mollis",
-		"id": 17
+		"sentence1": "a sollicitudin orci sem eget massa. Suspendisse eleifend. Cras sed",
+		"sentence2": "neque non quam. Pellentesque habitant morbi tristique senectus et netus",
+		"sentence3": "dui. Cum sociis natoque penatibus et magnis dis parturient montes,"
 	},
 	{
-		"text": "ut aliquam iaculis, lacus pede sagittis augue, eu tempor erat",
-		"id": 18
+		"sentence1": "tellus id nunc interdum feugiat. Sed nec metus facilisis lorem",
+		"sentence2": "Donec at arcu. Vestibulum ante ipsum primis in faucibus orci",
+		"sentence3": "nisl sem, consequat nec, mollis vitae, posuere at, velit. Cras"
 	},
 	{
-		"text": "aliquam, enim nec tempus scelerisque, lorem ipsum sodales purus, in",
-		"id": 19
+		"sentence1": "quam. Pellentesque habitant morbi tristique senectus et netus et malesuada",
+		"sentence2": "nibh lacinia orci, consectetuer euismod est arcu ac orci. Ut",
+		"sentence3": "neque vitae semper egestas, urna justo faucibus lectus, a sollicitudin"
 	},
 	{
-		"text": "dictum placerat, augue. Sed molestie. Sed id risus quis diam",
-		"id": 20
+		"sentence1": "risus. In mi pede, nonummy ut, molestie in, tempus eu,",
+		"sentence2": "In condimentum. Donec at arcu. Vestibulum ante ipsum primis in",
+		"sentence3": "Morbi vehicula. Pellentesque tincidunt tempus risus. Donec egestas. Duis ac"
 	},
 	{
-		"text": "et, commodo at, libero. Morbi accumsan laoreet ipsum. Curabitur consequat,",
-		"id": 21
+		"sentence1": "nec, imperdiet nec, leo. Morbi neque tellus, imperdiet non, vestibulum",
+		"sentence2": "mi pede, nonummy ut, molestie in, tempus eu, ligula. Aenean",
+		"sentence3": "in consectetuer ipsum nunc id enim. Curabitur massa. Vestibulum accumsan"
 	},
 	{
-		"text": "placerat, augue. Sed molestie. Sed id risus quis diam luctus",
-		"id": 22
+		"sentence1": "eu, ultrices sit amet, risus. Donec nibh enim, gravida sit",
+		"sentence2": "arcu. Aliquam ultrices iaculis odio. Nam interdum enim non nisi.",
+		"sentence3": "Curabitur massa. Vestibulum accumsan neque et nunc. Quisque ornare tortor"
 	},
 	{
-		"text": "nulla ante, iaculis nec, eleifend non, dapibus rutrum, justo. Praesent",
-		"id": 23
+		"sentence1": "Quisque ac libero nec ligula consectetuer rhoncus. Nullam velit dui,",
+		"sentence2": "aptent taciti sociosqu ad litora torquent per conubia nostra, per",
+		"sentence3": "facilisis vitae, orci. Phasellus dapibus quam quis diam. Pellentesque habitant"
 	},
 	{
-		"text": "adipiscing elit. Etiam laoreet, libero et tristique pellentesque, tellus sem",
-		"id": 24
+		"sentence1": "odio. Nam interdum enim non nisi. Aenean eget metus. In",
+		"sentence2": "feugiat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam",
+		"sentence3": "Nullam vitae diam. Proin dolor. Nulla semper tellus id nunc"
 	},
 	{
-		"text": "nunc est, mollis non, cursus non, egestas a, dui. Cras",
-		"id": 25
+		"sentence1": "Aenean euismod mauris eu elit. Nulla facilisi. Sed neque. Sed",
+		"sentence2": "id, mollis nec, cursus a, enim. Suspendisse aliquet, sem ut",
+		"sentence3": "eu, placerat eget, venenatis a, magna. Lorem ipsum dolor sit"
 	},
 	{
-		"text": "vehicula. Pellentesque tincidunt tempus risus. Donec egestas. Duis ac arcu.",
-		"id": 26
+		"sentence1": "at risus. Nunc ac sem ut dolor dapibus gravida. Aliquam",
+		"sentence2": "orci lobortis augue scelerisque mollis. Phasellus libero mauris, aliquam eu,",
+		"sentence3": "tempor, est ac mattis semper, dui lectus rutrum urna, nec"
 	},
 	{
-		"text": "ut quam vel sapien imperdiet ornare. In faucibus. Morbi vehicula.",
-		"id": 27
+		"sentence1": "Pellentesque ultricies dignissim lacus. Aliquam rutrum lorem ac risus. Morbi",
+		"sentence2": "arcu. Vestibulum ante ipsum primis in faucibus orci luctus et",
+		"sentence3": "ipsum. Suspendisse non leo. Vivamus nibh dolor, nonummy ac, feugiat"
 	},
 	{
-		"text": "ac orci. Ut semper pretium neque. Morbi quis urna. Nunc",
-		"id": 28
+		"sentence1": "Fusce aliquam, enim nec tempus scelerisque, lorem ipsum sodales purus,",
+		"sentence2": "elit, pellentesque a, facilisis non, bibendum sed, est. Nunc laoreet",
+		"sentence3": "ante. Vivamus non lorem vitae odio sagittis semper. Nam tempor"
 	},
 	{
-		"text": "Donec vitae erat vel pede blandit congue. In scelerisque scelerisque",
-		"id": 29
+		"sentence1": "nunc. Quisque ornare tortor at risus. Nunc ac sem ut",
+		"sentence2": "luctus vulputate, nisi sem semper erat, in consectetuer ipsum nunc",
+		"sentence3": "a, auctor non, feugiat nec, diam. Duis mi enim, condimentum"
 	},
 	{
-		"text": "torquent per conubia nostra, per inceptos hymenaeos. Mauris ut quam",
-		"id": 30
+		"sentence1": "risus. Quisque libero lacus, varius et, euismod et, commodo at,",
+		"sentence2": "Quisque nonummy ipsum non arcu. Vivamus sit amet risus. Donec",
+		"sentence3": "Nulla aliquet. Proin velit. Sed malesuada augue ut lacus. Nulla"
 	},
 	{
-		"text": "In lorem. Donec elementum, lorem ut aliquam iaculis, lacus pede",
-		"id": 31
+		"sentence1": "sollicitudin a, malesuada id, erat. Etiam vestibulum massa rutrum magna.",
+		"sentence2": "quis, tristique ac, eleifend vitae, erat. Vivamus nisi. Mauris nulla.",
+		"sentence3": "risus. Donec egestas. Aliquam nec enim. Nunc ut erat. Sed"
 	},
 	{
-		"text": "magna nec quam. Curabitur vel lectus. Cum sociis natoque penatibus",
-		"id": 32
+		"sentence1": "non enim. Mauris quis turpis vitae purus gravida sagittis. Duis",
+		"sentence2": "ornare lectus justo eu arcu. Morbi sit amet massa. Quisque",
+		"sentence3": "non, vestibulum nec, euismod in, dolor. Fusce feugiat. Lorem ipsum"
 	},
 	{
-		"text": "leo elementum sem, vitae aliquam eros turpis non enim. Mauris",
-		"id": 33
+		"sentence1": "elit elit fermentum risus, at fringilla purus mauris a nunc.",
+		"sentence2": "massa. Mauris vestibulum, neque sed dictum eleifend, nunc risus varius",
+		"sentence3": "mi tempor lorem, eget mollis lectus pede et risus. Quisque"
 	},
 	{
-		"text": "Nunc commodo auctor velit. Aliquam nisl. Nulla eu neque pellentesque",
-		"id": 34
+		"sentence1": "parturient montes, nascetur ridiculus mus. Donec dignissim magna a tortor.",
+		"sentence2": "eget metus eu erat semper rutrum. Fusce dolor quam, elementum",
+		"sentence3": "sollicitudin a, malesuada id, erat. Etiam vestibulum massa rutrum magna."
 	},
 	{
-		"text": "dignissim tempor arcu. Vestibulum ut eros non enim commodo hendrerit.",
-		"id": 35
+		"sentence1": "sit amet massa. Quisque porttitor eros nec tellus. Nunc lectus",
+		"sentence2": "ac mattis velit justo nec ante. Maecenas mi felis, adipiscing",
+		"sentence3": "et, rutrum eu, ultrices sit amet, risus. Donec nibh enim,"
 	},
 	{
-		"text": "interdum feugiat. Sed nec metus facilisis lorem tristique aliquet. Phasellus",
-		"id": 36
+		"sentence1": "ut dolor dapibus gravida. Aliquam tincidunt, nunc ac mattis ornare,",
+		"sentence2": "hendrerit id, ante. Nunc mauris sapien, cursus in, hendrerit consectetuer,",
+		"sentence3": "rhoncus. Donec est. Nunc ullamcorper, velit in aliquet lobortis, nisi"
 	},
 	{
-		"text": "ac libero nec ligula consectetuer rhoncus. Nullam velit dui, semper",
-		"id": 37
+		"sentence1": "nunc est, mollis non, cursus non, egestas a, dui. Cras",
+		"sentence2": "Donec consectetuer mauris id sapien. Cras dolor dolor, tempus non,",
+		"sentence3": "neque. Nullam ut nisi a odio semper cursus. Integer mollis."
 	},
 	{
-		"text": "sit amet, consectetuer adipiscing elit. Etiam laoreet, libero et tristique",
-		"id": 38
+		"sentence1": "diam eu dolor egestas rhoncus. Proin nisl sem, consequat nec,",
+		"sentence2": "nec luctus felis purus ac tellus. Suspendisse sed dolor. Fusce",
+		"sentence3": "felis. Nulla tempor augue ac ipsum. Phasellus vitae mauris sit"
 	},
 	{
-		"text": "erat semper rutrum. Fusce dolor quam, elementum at, egestas a,",
-		"id": 39
+		"sentence1": "faucibus. Morbi vehicula. Pellentesque tincidunt tempus risus. Donec egestas. Duis",
+		"sentence2": "non nisi. Aenean eget metus. In nec orci. Donec nibh.",
+		"sentence3": "velit eu sem. Pellentesque ut ipsum ac mi eleifend egestas."
 	},
 	{
-		"text": "sem, consequat nec, mollis vitae, posuere at, velit. Cras lorem",
-		"id": 40
+		"sentence1": "dapibus rutrum, justo. Praesent luctus. Curabitur egestas nunc sed libero.",
+		"sentence2": "Nam ac nulla. In tincidunt congue turpis. In condimentum. Donec",
+		"sentence3": "odio. Etiam ligula tortor, dictum eu, placerat eget, venenatis a,"
 	},
 	{
-		"text": "auctor quis, tristique ac, eleifend vitae, erat. Vivamus nisi. Mauris",
-		"id": 41
+		"sentence1": "Etiam vestibulum massa rutrum magna. Cras convallis convallis dolor. Quisque",
+		"sentence2": "Sed molestie. Sed id risus quis diam luctus lobortis. Class",
+		"sentence3": "tempor augue ac ipsum. Phasellus vitae mauris sit amet lorem"
 	},
 	{
-		"text": "lorem ac risus. Morbi metus. Vivamus euismod urna. Nullam lobortis",
-		"id": 42
+		"sentence1": "ipsum porta elit, a feugiat tellus lorem eu metus. In",
+		"sentence2": "vulputate velit eu sem. Pellentesque ut ipsum ac mi eleifend",
+		"sentence3": "fringilla. Donec feugiat metus sit amet ante. Vivamus non lorem"
 	},
 	{
-		"text": "Morbi quis urna. Nunc quis arcu vel quam dignissim pharetra.",
-		"id": 43
+		"sentence1": "elit pede, malesuada vel, venenatis vel, faucibus id, libero. Donec",
+		"sentence2": "dui. Fusce diam nunc, ullamcorper eu, euismod ac, fermentum vel,",
+		"sentence3": "ornare, facilisis eget, ipsum. Donec sollicitudin adipiscing ligula. Aenean gravida"
 	},
 	{
-		"text": "Cras sed leo. Cras vehicula aliquet libero. Integer in magna.",
-		"id": 44
+		"sentence1": "Nulla facilisi. Sed neque. Sed eget lacus. Mauris non dui",
+		"sentence2": "tempor erat neque non quam. Pellentesque habitant morbi tristique senectus",
+		"sentence3": "nostra, per inceptos hymenaeos. Mauris ut quam vel sapien imperdiet"
 	},
 	{
-		"text": "natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
-		"id": 45
+		"sentence1": "non, sollicitudin a, malesuada id, erat. Etiam vestibulum massa rutrum",
+		"sentence2": "vitae sodales nisi magna sed dui. Fusce aliquam, enim nec",
+		"sentence3": "sem egestas blandit. Nam nulla magna, malesuada vel, convallis in,"
 	},
 	{
-		"text": "tempus eu, ligula. Aenean euismod mauris eu elit. Nulla facilisi.",
-		"id": 46
+		"sentence1": "ornare. In faucibus. Morbi vehicula. Pellentesque tincidunt tempus risus. Donec",
+		"sentence2": "pretium neque. Morbi quis urna. Nunc quis arcu vel quam",
+		"sentence3": "diam. Duis mi enim, condimentum eget, volutpat ornare, facilisis eget,"
 	},
 	{
-		"text": "tortor. Nunc commodo auctor velit. Aliquam nisl. Nulla eu neque",
-		"id": 47
+		"sentence1": "aliquet magna a neque. Nullam ut nisi a odio semper",
+		"sentence2": "sed, hendrerit a, arcu. Sed et libero. Proin mi. Aliquam",
+		"sentence3": "dictum. Phasellus in felis. Nulla tempor augue ac ipsum. Phasellus"
 	},
 	{
-		"text": "id, ante. Nunc mauris sapien, cursus in, hendrerit consectetuer, cursus",
-		"id": 48
+		"sentence1": "placerat, orci lacus vestibulum lorem, sit amet ultricies sem magna",
+		"sentence2": "ornare. In faucibus. Morbi vehicula. Pellentesque tincidunt tempus risus. Donec",
+		"sentence3": "quam. Pellentesque habitant morbi tristique senectus et netus et malesuada"
 	},
 	{
-		"text": "auctor vitae, aliquet nec, imperdiet nec, leo. Morbi neque tellus,",
-		"id": 49
+		"sentence1": "Suspendisse aliquet, sem ut cursus luctus, ipsum leo elementum sem,",
+		"sentence2": "aliquet libero. Integer in magna. Phasellus dolor elit, pellentesque a,",
+		"sentence3": "mattis velit justo nec ante. Maecenas mi felis, adipiscing fringilla,"
 	},
 	{
-		"text": "Praesent luctus. Curabitur egestas nunc sed libero. Proin sed turpis",
-		"id": 50
+		"sentence1": "posuere at, velit. Cras lorem lorem, luctus ut, pellentesque eget,",
+		"sentence2": "lacus, varius et, euismod et, commodo at, libero. Morbi accumsan",
+		"sentence3": "enim. Mauris quis turpis vitae purus gravida sagittis. Duis gravida."
 	},
 	{
-		"text": "Nullam feugiat placerat velit. Quisque varius. Nam porttitor scelerisque neque.",
-		"id": 51
+		"sentence1": "Quisque nonummy ipsum non arcu. Vivamus sit amet risus. Donec",
+		"sentence2": "adipiscing lacus. Ut nec urna et arcu imperdiet ullamcorper. Duis",
+		"sentence3": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Etiam laoreet,"
 	},
 	{
-		"text": "ligula. Aenean euismod mauris eu elit. Nulla facilisi. Sed neque.",
-		"id": 52
+		"sentence1": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam auctor,",
+		"sentence2": "tellus eu augue porttitor interdum. Sed auctor odio a purus.",
+		"sentence3": "arcu. Morbi sit amet massa. Quisque porttitor eros nec tellus."
 	},
 	{
-		"text": "gravida nunc sed pede. Cum sociis natoque penatibus et magnis",
-		"id": 53
+		"sentence1": "luctus sit amet, faucibus ut, nulla. Cras eu tellus eu",
+		"sentence2": "sem eget massa. Suspendisse eleifend. Cras sed leo. Cras vehicula",
+		"sentence3": "pede. Praesent eu dui. Cum sociis natoque penatibus et magnis"
 	},
 	{
-		"text": "ligula. Donec luctus aliquet odio. Etiam ligula tortor, dictum eu,",
-		"id": 54
+		"sentence1": "lorem, luctus ut, pellentesque eget, dictum placerat, augue. Sed molestie.",
+		"sentence2": "pede blandit congue. In scelerisque scelerisque dui. Suspendisse ac metus",
+		"sentence3": "gravida sit amet, dapibus id, blandit at, nisi. Cum sociis"
 	},
 	{
-		"text": "dolor sit amet, consectetuer adipiscing elit. Curabitur sed tortor. Integer",
-		"id": 55
+		"sentence1": "quis, pede. Suspendisse dui. Fusce diam nunc, ullamcorper eu, euismod",
+		"sentence2": "Donec luctus aliquet odio. Etiam ligula tortor, dictum eu, placerat",
+		"sentence3": "facilisis facilisis, magna tellus faucibus leo, in lobortis tellus justo"
 	},
 	{
-		"text": "velit in aliquet lobortis, nisi nibh lacinia orci, consectetuer euismod",
-		"id": 56
+		"sentence1": "enim consequat purus. Maecenas libero est, congue a, aliquet vel,",
+		"sentence2": "Aenean euismod mauris eu elit. Nulla facilisi. Sed neque. Sed",
+		"sentence3": "risus. Nunc ac sem ut dolor dapibus gravida. Aliquam tincidunt,"
 	},
 	{
-		"text": "bibendum fermentum metus. Aenean sed pede nec ante blandit viverra.",
-		"id": 57
+		"sentence1": "sapien. Cras dolor dolor, tempus non, lacinia at, iaculis quis,",
+		"sentence2": "ipsum. Phasellus vitae mauris sit amet lorem semper auctor. Mauris",
+		"sentence3": "habitant morbi tristique senectus et netus et malesuada fames ac"
 	},
 	{
-		"text": "orci. Ut semper pretium neque. Morbi quis urna. Nunc quis",
-		"id": 58
+		"sentence1": "eu, ultrices sit amet, risus. Donec nibh enim, gravida sit",
+		"sentence2": "amet, dapibus id, blandit at, nisi. Cum sociis natoque penatibus",
+		"sentence3": "faucibus lectus, a sollicitudin orci sem eget massa. Suspendisse eleifend."
 	},
 	{
-		"text": "adipiscing lobortis risus. In mi pede, nonummy ut, molestie in,",
-		"id": 59
+		"sentence1": "litora torquent per conubia nostra, per inceptos hymenaeos. Mauris ut",
+		"sentence2": "justo. Praesent luctus. Curabitur egestas nunc sed libero. Proin sed",
+		"sentence3": "lorem, eget mollis lectus pede et risus. Quisque libero lacus,"
 	},
 	{
-		"text": "montes, nascetur ridiculus mus. Aenean eget magna. Suspendisse tristique neque",
-		"id": 60
+		"sentence1": "Cras lorem lorem, luctus ut, pellentesque eget, dictum placerat, augue.",
+		"sentence2": "vulputate velit eu sem. Pellentesque ut ipsum ac mi eleifend",
+		"sentence3": "ridiculus mus. Proin vel arcu eu odio tristique pharetra. Quisque"
 	},
 	{
-		"text": "odio vel est tempor bibendum. Donec felis orci, adipiscing non,",
-		"id": 61
+		"sentence1": "nonummy. Fusce fermentum fermentum arcu. Vestibulum ante ipsum primis in",
+		"sentence2": "nec tempus scelerisque, lorem ipsum sodales purus, in molestie tortor",
+		"sentence3": "sed turpis nec mauris blandit mattis. Cras eget nisi dictum"
 	},
 	{
-		"text": "gravida nunc sed pede. Cum sociis natoque penatibus et magnis",
-		"id": 62
+		"sentence1": "Nunc ullamcorper, velit in aliquet lobortis, nisi nibh lacinia orci,",
+		"sentence2": "Cras pellentesque. Sed dictum. Proin eget odio. Aliquam vulputate ullamcorper",
+		"sentence3": "ut, sem. Nulla interdum. Curabitur dictum. Phasellus in felis. Nulla"
 	},
 	{
-		"text": "bibendum. Donec felis orci, adipiscing non, luctus sit amet, faucibus",
-		"id": 63
+		"sentence1": "in, tempus eu, ligula. Aenean euismod mauris eu elit. Nulla",
+		"sentence2": "mus. Aenean eget magna. Suspendisse tristique neque venenatis lacus. Etiam",
+		"sentence3": "egestas. Aliquam nec enim. Nunc ut erat. Sed nunc est,"
 	},
 	{
-		"text": "Nunc ac sem ut dolor dapibus gravida. Aliquam tincidunt, nunc",
-		"id": 64
+		"sentence1": "egestas. Fusce aliquet magna a neque. Nullam ut nisi a",
+		"sentence2": "auctor. Mauris vel turpis. Aliquam adipiscing lobortis risus. In mi",
+		"sentence3": "ornare. In faucibus. Morbi vehicula. Pellentesque tincidunt tempus risus. Donec"
 	},
 	{
-		"text": "Donec elementum, lorem ut aliquam iaculis, lacus pede sagittis augue,",
-		"id": 65
+		"sentence1": "feugiat metus sit amet ante. Vivamus non lorem vitae odio",
+		"sentence2": "non magna. Nam ligula elit, pretium et, rutrum non, hendrerit",
+		"sentence3": "a, enim. Suspendisse aliquet, sem ut cursus luctus, ipsum leo"
 	},
 	{
-		"text": "nunc ac mattis ornare, lectus ante dictum mi, ac mattis",
-		"id": 66
+		"sentence1": "tristique pellentesque, tellus sem mollis dui, in sodales elit erat",
+		"sentence2": "accumsan convallis, ante lectus convallis est, vitae sodales nisi magna",
+		"sentence3": "Phasellus ornare. Fusce mollis. Duis sit amet diam eu dolor"
 	},
 	{
-		"text": "Proin mi. Aliquam gravida mauris ut mi. Duis risus odio,",
-		"id": 67
+		"sentence1": "risus. Donec egestas. Duis ac arcu. Nunc mauris. Morbi non",
+		"sentence2": "iaculis, lacus pede sagittis augue, eu tempor erat neque non",
+		"sentence3": "at, libero. Morbi accumsan laoreet ipsum. Curabitur consequat, lectus sit"
 	},
 	{
-		"text": "dictum augue malesuada malesuada. Integer id magna et ipsum cursus",
-		"id": 68
+		"sentence1": "ultrices posuere cubilia Curae Phasellus ornare. Fusce mollis. Duis sit",
+		"sentence2": "Nam ac nulla. In tincidunt congue turpis. In condimentum. Donec",
+		"sentence3": "egestas a, scelerisque sed, sapien. Nunc pulvinar arcu et pede."
 	},
 	{
-		"text": "molestie tellus. Aenean egestas hendrerit neque. In ornare sagittis felis.",
-		"id": 69
+		"sentence1": "magna tellus faucibus leo, in lobortis tellus justo sit amet",
+		"sentence2": "Pellentesque ut ipsum ac mi eleifend egestas. Sed pharetra, felis",
+		"sentence3": "tortor nibh sit amet orci. Ut sagittis lobortis mauris. Suspendisse"
 	},
 	{
-		"text": "ipsum ac mi eleifend egestas. Sed pharetra, felis eget varius",
-		"id": 70
+		"sentence1": "pharetra sed, hendrerit a, arcu. Sed et libero. Proin mi.",
+		"sentence2": "a felis ullamcorper viverra. Maecenas iaculis aliquet diam. Sed diam",
+		"sentence3": "arcu et pede. Nunc sed orci lobortis augue scelerisque mollis."
 	},
 	{
-		"text": "ornare placerat, orci lacus vestibulum lorem, sit amet ultricies sem",
-		"id": 71
+		"sentence1": "sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus",
+		"sentence2": "penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec",
+		"sentence3": "Suspendisse ac metus vitae velit egestas lacinia. Sed congue, elit"
 	},
 	{
-		"text": "mauris eu elit. Nulla facilisi. Sed neque. Sed eget lacus.",
-		"id": 72
+		"sentence1": "non arcu. Vivamus sit amet risus. Donec egestas. Aliquam nec",
+		"sentence2": "Morbi non sapien molestie orci tincidunt adipiscing. Mauris molestie pharetra",
+		"sentence3": "pretium neque. Morbi quis urna. Nunc quis arcu vel quam"
 	},
 	{
-		"text": "tellus sem mollis dui, in sodales elit erat vitae risus.",
-		"id": 73
+		"sentence1": "ante, iaculis nec, eleifend non, dapibus rutrum, justo. Praesent luctus.",
+		"sentence2": "Maecenas libero est, congue a, aliquet vel, vulputate eu, odio.",
+		"sentence3": "Donec fringilla. Donec feugiat metus sit amet ante. Vivamus non"
 	},
 	{
-		"text": "imperdiet, erat nonummy ultricies ornare, elit elit fermentum risus, at",
-		"id": 74
+		"sentence1": "vel lectus. Cum sociis natoque penatibus et magnis dis parturient",
+		"sentence2": "dui augue eu tellus. Phasellus elit pede, malesuada vel, venenatis",
+		"sentence3": "et ultrices posuere cubilia Curae Phasellus ornare. Fusce mollis. Duis"
 	},
 	{
-		"text": "Ut semper pretium neque. Morbi quis urna. Nunc quis arcu",
-		"id": 75
+		"sentence1": "aliquet, sem ut cursus luctus, ipsum leo elementum sem, vitae",
+		"sentence2": "eget laoreet posuere, enim nisl elementum purus, accumsan interdum libero",
+		"sentence3": "odio semper cursus. Integer mollis. Integer tincidunt aliquam arcu. Aliquam"
 	},
 	{
-		"text": "magna tellus faucibus leo, in lobortis tellus justo sit amet",
-		"id": 76
+		"sentence1": "natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+		"sentence2": "quis, pede. Praesent eu dui. Cum sociis natoque penatibus et",
+		"sentence3": "neque. Sed eget lacus. Mauris non dui nec urna suscipit"
 	},
 	{
-		"text": "Suspendisse aliquet, sem ut cursus luctus, ipsum leo elementum sem,",
-		"id": 77
+		"sentence1": "Quisque ornare tortor at risus. Nunc ac sem ut dolor",
+		"sentence2": "feugiat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam",
+		"sentence3": "mattis ornare, lectus ante dictum mi, ac mattis velit justo"
 	},
 	{
-		"text": "aptent taciti sociosqu ad litora torquent per conubia nostra, per",
-		"id": 78
+		"sentence1": "auctor non, feugiat nec, diam. Duis mi enim, condimentum eget,",
+		"sentence2": "metus. Vivamus euismod urna. Nullam lobortis quam a felis ullamcorper",
+		"sentence3": "id, mollis nec, cursus a, enim. Suspendisse aliquet, sem ut"
 	},
 	{
-		"text": "feugiat placerat velit. Quisque varius. Nam porttitor scelerisque neque. Nullam",
-		"id": 79
+		"sentence1": "dignissim magna a tortor. Nunc commodo auctor velit. Aliquam nisl.",
+		"sentence2": "consequat, lectus sit amet luctus vulputate, nisi sem semper erat,",
+		"sentence3": "vulputate eu, odio. Phasellus at augue id ante dictum cursus."
 	},
 	{
-		"text": "magna. Duis dignissim tempor arcu. Vestibulum ut eros non enim",
-		"id": 80
+		"sentence1": "Donec fringilla. Donec feugiat metus sit amet ante. Vivamus non",
+		"sentence2": "velit dui, semper et, lacinia vitae, sodales at, velit. Pellentesque",
+		"sentence3": "neque sed dictum eleifend, nunc risus varius orci, in consequat"
 	},
 	{
-		"text": "ut, pellentesque eget, dictum placerat, augue. Sed molestie. Sed id",
-		"id": 81
+		"sentence1": "tellus eu augue porttitor interdum. Sed auctor odio a purus.",
+		"sentence2": "eu, accumsan sed, facilisis vitae, orci. Phasellus dapibus quam quis",
+		"sentence3": "neque non quam. Pellentesque habitant morbi tristique senectus et netus"
 	},
 	{
-		"text": "mi lorem, vehicula et, rutrum eu, ultrices sit amet, risus.",
-		"id": 82
+		"sentence1": "massa. Vestibulum accumsan neque et nunc. Quisque ornare tortor at",
+		"sentence2": "aliquam adipiscing lacus. Ut nec urna et arcu imperdiet ullamcorper.",
+		"sentence3": "sed leo. Cras vehicula aliquet libero. Integer in magna. Phasellus"
 	},
 	{
-		"text": "Duis at lacus. Quisque purus sapien, gravida non, sollicitudin a,",
-		"id": 83
+		"sentence1": "ornare, libero at auctor ullamcorper, nisl arcu iaculis enim, sit",
+		"sentence2": "adipiscing fringilla, porttitor vulputate, posuere vulputate, lacus. Cras interdum. Nunc",
+		"sentence3": "erat neque non quam. Pellentesque habitant morbi tristique senectus et"
 	},
 	{
-		"text": "enim commodo hendrerit. Donec porttitor tellus non magna. Nam ligula",
-		"id": 84
+		"sentence1": "Integer vitae nibh. Donec est mauris, rhoncus id, mollis nec,",
+		"sentence2": "adipiscing ligula. Aenean gravida nunc sed pede. Cum sociis natoque",
+		"sentence3": "molestie sodales. Mauris blandit enim consequat purus. Maecenas libero est,"
 	},
 	{
-		"text": "vitae diam. Proin dolor. Nulla semper tellus id nunc interdum",
-		"id": 85
+		"sentence1": "egestas. Sed pharetra, felis eget varius ultrices, mauris ipsum porta",
+		"sentence2": "ut nisi a odio semper cursus. Integer mollis. Integer tincidunt",
+		"sentence3": "Maecenas ornare egestas ligula. Nullam feugiat placerat velit. Quisque varius."
 	},
 	{
-		"text": "magnis dis parturient montes, nascetur ridiculus mus. Donec dignissim magna",
-		"id": 86
+		"sentence1": "erat. Sed nunc est, mollis non, cursus non, egestas a,",
+		"sentence2": "Nunc ullamcorper, velit in aliquet lobortis, nisi nibh lacinia orci,",
+		"sentence3": "at fringilla purus mauris a nunc. In at pede. Cras"
 	},
 	{
-		"text": "Nulla dignissim. Maecenas ornare egestas ligula. Nullam feugiat placerat velit.",
-		"id": 87
+		"sentence1": "lorem, eget mollis lectus pede et risus. Quisque libero lacus,",
+		"sentence2": "orci quis lectus. Nullam suscipit, est ac facilisis facilisis, magna",
+		"sentence3": "dictum mi, ac mattis velit justo nec ante. Maecenas mi"
 	},
 	{
-		"text": "ac ipsum. Phasellus vitae mauris sit amet lorem semper auctor.",
-		"id": 88
+		"sentence1": "sem ut dolor dapibus gravida. Aliquam tincidunt, nunc ac mattis",
+		"sentence2": "In ornare sagittis felis. Donec tempor, est ac mattis semper,",
+		"sentence3": "inceptos hymenaeos. Mauris ut quam vel sapien imperdiet ornare. In"
 	},
 	{
-		"text": "amet lorem semper auctor. Mauris vel turpis. Aliquam adipiscing lobortis",
-		"id": 89
+		"sentence1": "Nulla tincidunt, neque vitae semper egestas, urna justo faucibus lectus,",
+		"sentence2": "amet lorem semper auctor. Mauris vel turpis. Aliquam adipiscing lobortis",
+		"sentence3": "elementum, lorem ut aliquam iaculis, lacus pede sagittis augue, eu"
 	},
 	{
-		"text": "et, rutrum non, hendrerit id, ante. Nunc mauris sapien, cursus",
-		"id": 90
+		"sentence1": "odio. Aliquam vulputate ullamcorper magna. Sed eu eros. Nam consequat",
+		"sentence2": "lacus. Ut nec urna et arcu imperdiet ullamcorper. Duis at",
+		"sentence3": "ante, iaculis nec, eleifend non, dapibus rutrum, justo. Praesent luctus."
 	},
 	{
-		"text": "eleifend non, dapibus rutrum, justo. Praesent luctus. Curabitur egestas nunc",
-		"id": 91
+		"sentence1": "felis eget varius ultrices, mauris ipsum porta elit, a feugiat",
+		"sentence2": "lectus pede et risus. Quisque libero lacus, varius et, euismod",
+		"sentence3": "Donec luctus aliquet odio. Etiam ligula tortor, dictum eu, placerat"
 	},
 	{
-		"text": "sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus",
-		"id": 92
+		"sentence1": "Proin ultrices. Duis volutpat nunc sit amet metus. Aliquam erat",
+		"sentence2": "Duis sit amet diam eu dolor egestas rhoncus. Proin nisl",
+		"sentence3": "Donec nibh enim, gravida sit amet, dapibus id, blandit at,"
 	},
 	{
-		"text": "Phasellus in felis. Nulla tempor augue ac ipsum. Phasellus vitae",
-		"id": 93
+		"sentence1": "ipsum non arcu. Vivamus sit amet risus. Donec egestas. Aliquam",
+		"sentence2": "Donec nibh enim, gravida sit amet, dapibus id, blandit at,",
+		"sentence3": "sit amet ante. Vivamus non lorem vitae odio sagittis semper."
 	},
 	{
-		"text": "dolor. Nulla semper tellus id nunc interdum feugiat. Sed nec",
-		"id": 94
+		"sentence1": "penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin",
+		"sentence2": "arcu. Nunc mauris. Morbi non sapien molestie orci tincidunt adipiscing.",
+		"sentence3": "Vestibulum accumsan neque et nunc. Quisque ornare tortor at risus."
 	},
 	{
-		"text": "dui nec urna suscipit nonummy. Fusce fermentum fermentum arcu. Vestibulum",
-		"id": 95
+		"sentence1": "malesuada fames ac turpis egestas. Aliquam fringilla cursus purus. Nullam",
+		"sentence2": "habitant morbi tristique senectus et netus et malesuada fames ac",
+		"sentence3": "enim diam vel arcu. Curabitur ut odio vel est tempor"
 	},
 	{
-		"text": "auctor. Mauris vel turpis. Aliquam adipiscing lobortis risus. In mi",
-		"id": 96
+		"sentence1": "metus sit amet ante. Vivamus non lorem vitae odio sagittis",
+		"sentence2": "rutrum magna. Cras convallis convallis dolor. Quisque tincidunt pede ac",
+		"sentence3": "scelerisque neque sed sem egestas blandit. Nam nulla magna, malesuada"
 	},
 	{
-		"text": "laoreet posuere, enim nisl elementum purus, accumsan interdum libero dui",
-		"id": 97
+		"sentence1": "ut nisi a odio semper cursus. Integer mollis. Integer tincidunt",
+		"sentence2": "adipiscing, enim mi tempor lorem, eget mollis lectus pede et",
+		"sentence3": "feugiat placerat velit. Quisque varius. Nam porttitor scelerisque neque. Nullam"
 	},
 	{
-		"text": "amet, faucibus ut, nulla. Cras eu tellus eu augue porttitor",
-		"id": 98
+		"sentence1": "enim. Curabitur massa. Vestibulum accumsan neque et nunc. Quisque ornare",
+		"sentence2": "est ac mattis semper, dui lectus rutrum urna, nec luctus",
+		"sentence3": "dignissim pharetra. Nam ac nulla. In tincidunt congue turpis. In"
 	},
 	{
-		"text": "scelerisque mollis. Phasellus libero mauris, aliquam eu, accumsan sed, facilisis",
-		"id": 99
+		"sentence1": "arcu. Aliquam ultrices iaculis odio. Nam interdum enim non nisi.",
+		"sentence2": "auctor vitae, aliquet nec, imperdiet nec, leo. Morbi neque tellus,",
+		"sentence3": "Quisque porttitor eros nec tellus. Nunc lectus pede, ultrices a,"
 	},
 	{
-		"text": "egestas. Fusce aliquet magna a neque. Nullam ut nisi a",
-		"id": 100
+		"sentence1": "Phasellus ornare. Fusce mollis. Duis sit amet diam eu dolor",
+		"sentence2": "mi pede, nonummy ut, molestie in, tempus eu, ligula. Aenean",
+		"sentence3": "mauris sapien, cursus in, hendrerit consectetuer, cursus et, magna. Praesent"
 	}
 ]
